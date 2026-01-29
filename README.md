@@ -1,10 +1,10 @@
-# 🎓 Face Authentication Attendance System
+#  Face Authentication Attendance System
 
 A Python-based **Face Recognition Attendance System** that uses computer vision and machine learning to automatically mark attendance using facial recognition. The system supports **Punch-In** and **Punch-Out**, stores attendance in CSV files, and provides a **Streamlit web interface** to manage and view attendance records.
 
 ---
 
-## 🚀 Features
+##  Features
 
 - 📸 Capture and register new faces using webcam  
 - 🧠 Face recognition using KNN (K-Nearest Neighbors)  
@@ -18,7 +18,7 @@ A Python-based **Face Recognition Attendance System** that uses computer vision 
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - **Python**
 - **OpenCV**
