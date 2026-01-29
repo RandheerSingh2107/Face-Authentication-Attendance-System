@@ -31,19 +31,19 @@ A Python-based **Face Recognition Attendance System** that uses computer vision 
 
 ---
 Face-Authentication-Attendance-System/
-│
+
 ├── app.py # Streamlit dashboard
 ├── add_faces.py # Face data collection
 ├── test.py # Face recognition & attendance
 
-│
+
 ├── data/
-│ ├── faces_data.pkl
-│ └── names.pkl
-│
+ ├── faces_data.pkl
+ └── names.pkl
+
 ├── Attendance/
-│ └── Attendance_DD-MM-YYYY.csv
-│
+ └── Attendance_DD-MM-YYYY.csv
+
 └── README.md
 
 2️⃣ Add a New Face
